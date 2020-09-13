@@ -23,4 +23,4 @@ pyinstaller --onefile --add-binary='/System/Library/Frameworks/Tk.framework/Tk':
 
 - Version: 1.0.0
 - License: MIT
-- Authors: Hammami Amin, Hachem Bahlous, Malek Ben Friha
+- Author: Hammami Amin

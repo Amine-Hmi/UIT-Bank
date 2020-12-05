@@ -1,4 +1,8 @@
-# Bank Management System
+![](login_screen.png)
+![](dasboard.png)
+
+
+Bank Management System
 
 > Python/Tkinter desktop GUI app to manage customer bank account. This app uses Sqlite3 to store data
 

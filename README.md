@@ -1,5 +1,5 @@
 ![](login_screen.png)
-![](dasboard.png)
+![](dashboard.png)
 
 
 Bank Management System
